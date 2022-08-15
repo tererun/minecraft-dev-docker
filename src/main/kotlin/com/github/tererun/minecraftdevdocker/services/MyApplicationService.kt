@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.tererun.minecraftdevdocker.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.tererun.minecraftdevdocker.MyBundle
 
 class MyApplicationService {
 
